@@ -16,7 +16,7 @@ $HOME/xampp/htdocs/api_nasabah
 - tampil_nasabah_all.php
 ```
 
-* Create db named db_nasabah in phpMyAdmin and execute the [tb_nasabah SQL](https://github.com/Adhito/app-inixindo-task02/blob/main/db_api/tb_nasabah.sqlm/) file
+* Create db named db_nasabah in phpMyAdmin and execute the [tb_nasabah SQL](https://github.com/Adhito/app-inixindo-task02/blob/main/db_api/tb_nasabah.sql/) file
 
 * Run the app
 
